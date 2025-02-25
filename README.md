@@ -66,13 +66,13 @@ A implementação do modelo probabilístico foi desenvolvida no arquivo `heredit
    ```
 2. Navegue até a pasta do projeto:  
    ```bash  
-   cd dna-heredity   
+   cd heredity   
    ```  
 3. Execute a análise genética de uma determinada família, utilize o seguinte comando no terminal:  
 
-```bash
-python3 heredity.py data/family0.csv
-```  
+  ```bash
+  python3 heredity.py data/family0.csv
+  ```  
 No comando acima, data/family0.csv representa um conjunto de dados sobre uma família. Você é livre para substituir family0.csv por family1.csv ou family2.csv, para analisar diferentes amostras.
 
 Certifique-se de que possui **Python 3** instalado no seu ambiente.
